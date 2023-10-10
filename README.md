@@ -37,6 +37,6 @@ If no filename is specified, you can provide input directly, and the tool will r
 
 The tool will display the requested count along with the input file name (if applicable).
 
-Requirements
-Python 3.x
-Click library
+Requirements:
+- Python 3.x
+- Click library
