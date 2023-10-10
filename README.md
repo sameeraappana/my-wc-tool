@@ -13,17 +13,17 @@ readlink -f /usr/local/bin/ccwc   (you should see the full path to the wc-tool.p
 ``` 
 
 4. Now you can use the command from any directory:
-### To count words
-`ccwc input.txt -w`
+    ### To count words
+    `ccwc input.txt -w`
 
-### To count lines
-`ccwc input.txt -l`
+    ### To count lines
+    `ccwc input.txt -l`
 
-### To count bytes
-`ccwc input.txt -b`
+    ### To count bytes
+    `ccwc input.txt -b`
 
-### To count characters
-`ccwc input.txt -c`
+    ### To count characters
+    `ccwc input.txt -c`
 
 If you don't specify any arguments, all the counts will be in the output.
 
@@ -34,6 +34,7 @@ for example:
 If no filename is specified, you can provide input directly, and the tool will read from standard input.
 
 5. Enjoy the Results!
+
 The tool will display the requested count along with the input file name (if applicable).
 
 Requirements
