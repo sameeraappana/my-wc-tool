@@ -1,5 +1,6 @@
 # my-wc-tool
 Coding challenge #1
+
 This is my implementation of the UNIX command line tool `wc` in python. This gives the count of words, bytes, lines characters as output for a given input file or input
 
 ## Run this functionality locally
